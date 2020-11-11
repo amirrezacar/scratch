@@ -5,7 +5,7 @@ tr.speed(10000)
 
 
 
-for j in range(1000):
+for j in range(100):
     tr.penup()
     x_position = rnd.randint(-400, 300)
     y_position = rnd.randint(-200, 200)
